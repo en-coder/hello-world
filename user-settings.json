@@ -1,0 +1,19 @@
+{
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Monokai",
+    "workbench.colorCustomizations": {
+      "[Monokai]": {
+        "editor.lineHighlightBackground": "#2B2C26",
+        "editor.lineHighlightBorder": "#2F302A",
+        "editorGroupHeader.tabsBackground": "#393B31",
+        "tab.inactiveBackground": "#393B31",
+        "tab.border": "#515349",
+        "tab.hoverBackground": "#313329",
+      }
+    },
+    // "team.logging.level": "error",
+    "git.autofetch": true,
+    "workbench.iconTheme": "vscode-icons",
+}
